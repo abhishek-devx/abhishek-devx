@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek .
 - 👀 I’m interested in Android Development 📱 .
-- 🌱 I’m currently Started learning Programming .
+- 🌱 I’m currently learning Programming .
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
